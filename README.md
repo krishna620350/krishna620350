@@ -40,7 +40,7 @@ With expertise in these languages and tools, I am able to build robust and scala
 ## 🌐 Let's Connect
 Thank you for visiting my GitHub profile! If you'd like to connect with me or learn more about my work, feel free to reach out to me on LinkedIn. Let's collaborate and create innovative projects together!
 
-![image](https://github.com/krishna620350/krishna620350/assets/66194190/6ee8c5f3-acbb-49eb-873c-246dea0db47b)
+![image](https://linkedin.com/in/krishna-krishna)
 
 
 Looking forward to hearing from you and exploring exciting opportunities in the world of software development!
